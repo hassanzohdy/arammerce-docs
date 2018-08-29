@@ -1,6 +1,7 @@
 # E-Commerce Features .
 
 ### The Most Important Ecommerce Features Include:
+
 > - Promotion and discount code tools.
 > - Coupons.
 > - Reporting.   
@@ -9,7 +10,8 @@
 > - Customer accounts and guest checkout
 > - Inventory management
 > - Order management
-> - Divide ` products ` according to ** Store - - Categories - Brands **
+
+Divide `products` according to **Store - - Categories - Brands**.
 
 ## Features I think it will help our Customers
  - Chat bot To help our Customers 
