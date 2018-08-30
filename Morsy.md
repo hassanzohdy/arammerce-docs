@@ -1,37 +1,43 @@
 # Arammerce
 
+Arammerce is an Ecommerce script for all oniline merchant sollutions.
 
-###### Arammerece is a script for full E-commerce sollution it allow merchant to buy their products.
+## Type of Arammerce:
 
-### Features of **Arammerce** App:
+it'll debend om multi vendors store, than allow merchants to buy their products.
+> we will update others systems in future.
 
-    1 - Send product by Email.
-    2 - Share product to social media pages.
-    3 - Add multi properties to products like ( color, size, brand, weight, ....).
-    4 - Add seo feature to application:
-        - add keywords for products.
-        - add keywords for products image.
-        - integrated with google analytics.
-        - add keywords for each page.
-        - integration with sms system to send offers to registered clients.
-    5 - Advanced search with all propertise of products, names, keywords.
-    6 - water mark for all products.
-    7 - defualt image for all products.
-    8 - report with sales ( daily, weekly, monthly, yearly)
-    9 - send confirmation mail automaticly for any confirmed purchases.
-    10 - invoice printable.
-    11 - multi currencies.
-    12 - multi languages.
-    13 - price system for ( normal user - merchant).
-    14 - multi Admins with Authurizations.
-    15 - Custom live chat script for support.
-    16 - gift point system.
-    17 - add unlimitied products, categories and brands.
-    18 - make offers and discount coupon.
-    19 - integration with paypal, stripe, paytrap and payonner payment system.
-    20 - Affiliate system.
-    22 - Advertising places on website.
-    23 - comment, share, rate on products.
-	
-> i will updated it by time :sparkles:
-    
+## Script features:
+
+* Send product by Email.
+* Share product to social media pages.
+* Add multi properties to products like ( color, size, brand, weight, ....).
+* Add seo feature to application:
+    *  add keywords for products.
+    * add keywords for products image.
+    * integrated with google analytics.
+    * add keywords for each page.
+    * integration with sms system to send offers to registered clients.
+*  Advanced search with all propertise of products, names, keywords.
+*  water mark for all products.
+*  defualt image for all products.
+*  report with sales ( daily, weekly, monthly, yearly)
+*  send confirmation mail automaticly for any confirmed purchases.
+*  invoice printable.
+*  multi currencies.
+*  multi languages.
+*  price system for ( normal user - merchant).
+*  multi Admins with Authurizations.
+*  Custom live chat script for support.
+* gift point system.
+*  add unlimitied products, categories and brands.
+*  make offers and discount coupon.
+*  integration with paypal, stripe, paytrap and payonner payment system.
+*  Affiliate system.
+*  Advertising places on website.
+*  comment, share, rate on products.
+* etc
+> we will update features with time **wish us best** :sparkles:
+  
+
+
