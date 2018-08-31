@@ -1,6 +1,6 @@
 # Arammerce documentation #
 
-## First : Types of Arammerce ##
+## First : Types of Stores & Shops ##
 
 ### A) Stores that sell particular types of goods ###
 1. Bookstore/clothes store/record store.
