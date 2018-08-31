@@ -1,7 +1,7 @@
-#Store Type: 
+# Store Type: 
 *Multivendor store*
 
-#Key features:
+# Key features:
 
 *	Content management capabilities
 *	Promotion and discount code tools
@@ -16,7 +16,7 @@
 *	Follow PCI security standards and have an SSL certificate.
 *	Each vendor have his own messages inbox and real time chat available so customers could contact him directly.
 
-##Categories
+## Categories
 
 *	Each category could have unlimited sub-categories
 *   Search and sort to easily find categories
@@ -26,7 +26,7 @@
 *	Set page URL's and SEO elements for categories
 *	Manage categories thumbnails and images
 
-##Brands
+## Brands
 
 *	Manage brands
 *	Feature brands on the homepage
@@ -34,7 +34,7 @@
 *	Set page URL's and SEO elements for brands
 *	Manage brand logos
 
-##Products
+## Products
 
 *	Search and sort to easily find products in certain categories or with specific attributes
 *	Easily manage and edit products
@@ -54,7 +54,7 @@
 *	Product image editing and cropping tool
 *	Set product page URL and SEO elements for products
 
-##Blog
+## Blog
 
 *	Manage blog posts
 *	Set blog publish date
@@ -65,24 +65,23 @@
 *	Attached blog posts to product pages
 *	Set post URL and SEO elements
 
-##Auto Email Messages
+## Auto Email Messages
 
 *	Manage main email template design
 *	Set messaging for order status emails
 *	Set messaging for thank you email on product reviews and blog comment submissions
 
-
-##Review Management
+## Review Management
 
 *	Manage all product reviews
 *	Set reviews to “approved” or delete reviews
 
-##Comment Management
+## Comment Management
 
 *	Manage all blog comments
 *	Set comments to “approved” or delete comments 
 
-##Customer Management
+## Customer Management
 
 *	Search and sort to easily find customers by first name and last name
 *	View customer details and previous orders
@@ -90,7 +89,7 @@
 *	Add private comments to a customer
 *	Export customers to Excel
 
-##Discount & Promotion Management
+## Discount & Promotion Management
 
 *	Create and manage discount codes
 *	Add discount codes to categories, brand or products
@@ -102,7 +101,7 @@
 *	Set minimum and maximum quantity requirements for discount codes
 *	Set number of times code can be used before automatically becoming inactive
 
-##Reporting Dashboard
+## Reporting Dashboard
 
 *	Interactive administrative dashboard with charts and statistics
 *	Ability to change dashboard statistics to reflect specific date ranges
@@ -111,15 +110,15 @@
 Single Reports
 *	Single reports, outside of the dashboard, include sales by date range, top selling product by date range, low inventory by quantity and new customer by date range.
 
-##Settings
+## Settings
 
-###Shipping Options
+### Shipping Options
 
 *	Set specific price or percentage of order
 *	Set and manage shipping discount codes and promotions
 *	Set free shipping on individual products
 
-###Payment Options
+### Payment Options
 
 *	Active and deactivate payment types available
 *	Allow offline payment option
