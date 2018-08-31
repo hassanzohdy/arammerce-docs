@@ -2,11 +2,6 @@
 
 Arammerce is an eCommerce script for all oniline sale and purchase process
 
-## Type of Arammerce:
-
-it'll debend on multi vendors store, than allow merchants to sell and buy their products.
-> we will update others systems in future.
-
 ## Script features:
 
 * stores
