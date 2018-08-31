@@ -10,12 +10,12 @@
 5. Delicatessen.
 6. Hardware store.
 7. Boutique.
-### Stores that sell different types of goods ###
+### B) Stores that sell different types of goods ###
 1. Convenience store : that is often open 24 hours each day and sell different types of goods.
 2. Department store : A large store that sells many different products, such as clothes, kitchen equipment.
 3. Chain store : one or group of stores owned by the same instituition.
 4. Superstore : A very big store, especially one that has many different types of products, or one that has a lot of one type of product.
-### Stores that sell goods more cheaply ###
+### C) Stores that sell goods more cheaply ###
 1. Outlet store : A store that sells things for less than the usual price.
 2. Warehouse store : A store that sells things in large amounts at lower prices.
 
