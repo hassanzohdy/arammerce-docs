@@ -4,3 +4,11 @@ This is going to be just a temp git to make sure that all participants became fa
 
 ## Quests
 - Make a `PR` **Pull Request** to this git and push a markdown file **name it with your name** with all features that you see it should be implemented in the store, **Also write at the beginning of the file what are the types of stores that may be created.**  
+
+# Features By Participants 
+- [Abdelaziz Sliem](./Abdelaziz_Sliem.md)
+- [Adham Ouda](./Adham-Ouda.md)
+- [Ibrahim Abdallatif](./ibrahim-abdallatif.md)
+- [Mohammed Basha](./mohammed-basha.md)
+- [Mohammed Morsy](./Morsy.md)
+- [Shreen Taher](./shreentaher.md)
