@@ -2,7 +2,23 @@
 
 ## First : Types of Arammerce ##
 
-**will be detailed later**
+### A) Stores that sell particular types of goods ###
+1. Bookstore/clothes store/record store.
+2. Grocery store.
+3. Supermarket.
+4. Bakery.
+5. Delicatessen.
+6. Hardware store.
+7. Boutique.
+### Stores that sell different types of goods ###
+1. Convenience store : that is often open 24 hours each day and sell different types of goods.
+2. Department store : A large store that sells many different products, such as clothes, kitchen equipment.
+3. Chain store : one or group of stores owned by the same instituition.
+4. Superstore : A very big store, especially one that has many different types of products, or one that has a lot of one type of product.
+### Stores that sell goods more cheaply ###
+1. Outlet store : A store that sells things for less than the usual price.
+2. Warehouse store : A store that sells things in large amounts at lower prices.
+
 ## Second : Features should exist in such system ##
 ### A) page ###
 1. Image editing and cropping tool
