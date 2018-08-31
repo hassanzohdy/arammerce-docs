@@ -23,7 +23,7 @@
   - Share products to social media websites `Facebook, Twitter, Google+ ...`
   - rate and reviews for each product.
   - Related Product Suggestions
-- **Cart **:Integration with payment API.
+- **Cart**:Integration with payment API.
 - **Coupon codes**: type in the coupon code during checkout  to apply the coupon.  
   *- still reading about the idea of this concept -*
   - types:
