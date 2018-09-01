@@ -6,6 +6,7 @@ I think we should start with regular ecommerce B2C type then we may extend funct
 * Users Managment
 * Inventory Managment
 * Orders Managment
+* Suppliers / Vendors / Retailers Managment
 * Payments 
 * Customer Service
 * Reports and Stats
