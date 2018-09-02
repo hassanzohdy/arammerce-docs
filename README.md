@@ -2,6 +2,10 @@
 
 This is going to be just a temp git to make sure that all participants became familiar with using git in general.
 
+# New to markdown(md) files?
+
+This is a [great tutorial](https://guides.github.com/features/mastering-markdown/) to start with as it will guide you to the basics of writing markdown files.
+
 # How to make a Pull Request
 If this is your first time to make a pull request to github, or any git in general, then this [tiny beautiful tutorial](./creating_a_pull_request.md) will guide you in few steps to make your first pull request.
 
