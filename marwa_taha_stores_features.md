@@ -3,12 +3,18 @@
 2. **Drop Shipping online Store .**
 
 ###**1. Affiliate Marketing Store**
+
 ###**Definition** 
+
 >####is a company, organization, or individual that markets another company's products through their website. In exchange for marketing their products, companies pay affiliates a commission for each sale they generate.
+
 ###**Example OF Affiliate Marketing Store** 
+
 1. [https://kidstabletswithwifi.com/](https://kidstabletswithwifi.com/)
 2. [https://footballsnackhelmets.com/](https://footballsnackhelmets.com/)
+
 ####**Features :-**
+
 - **AFFILIATE LINK STYLES.**
 >Affiliate Pro supports all types of affiliate links. Just choose what format of link will best fit your needs .
 
